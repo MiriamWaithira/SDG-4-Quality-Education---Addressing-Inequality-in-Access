@@ -1,0 +1,13 @@
+region_name,resource_type,total_quantity
+North,Books,300
+North,Computers,150
+North,Laboratories,5
+South,Computers,150
+South,Books,150
+South,Laboratories,3
+East,Laboratories,6
+East,Books,100
+East,Computers,50
+West,Books,50
+West,Computers,25
+West,Laboratories,0

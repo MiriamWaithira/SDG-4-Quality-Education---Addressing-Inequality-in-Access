@@ -1,0 +1,13 @@
+region_name,resource_type,total_resources,total_cost
+East,Books,100,5000.00
+East,Computers,50,50000.00
+East,Laboratories,6,300000.00
+North,Books,300,17000.00
+North,Computers,150,150000.00
+North,Laboratories,5,1000000.00
+South,Books,150,7500.00
+South,Computers,150,103000.00
+South,Laboratories,3,600000.00
+West,Books,50,2500.00
+West,Computers,25,25000.00
+West,Laboratories,0,0.00
